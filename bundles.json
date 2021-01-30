@@ -1,0 +1,20 @@
+{
+  "bundles": [
+    {
+      "bundleType": "flashdrive",
+      "name": "calculator-input",
+      "fileName": "input.raw",
+      "id": "baenrwigmw66wmp2vwjejrmmlw5sbvwpsx3zjtnd7rep4oo6wd3glahtfl4",
+      "version": "0.0.1",
+      "uri": "https://github.com/createdreamtech/carti-sample/blob/feat/complete/input.raw"
+    },
+    {
+      "bundleType": "flashdrive",
+      "name": "calculator-output",
+      "fileName": "output.raw",
+      "id": "baenrwia5pfe7b6dvoys33k7umgsbbixgpympwcfjpqowpaye3bghmrs24m",
+      "version": "0.0.1",
+      "uri": "https://github.com/createdreamtech/carti-sample/blob/feat/complete/output.raw"
+    }
+  ]
+}
